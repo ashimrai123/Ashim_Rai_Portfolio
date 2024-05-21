@@ -1,0 +1,24 @@
+.hero {
+  display: flex;
+  gap: 2rem;
+}
+
+@keyframes backgroundFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.backgroundFadeIn {
+  position: relative;
+  overflow: hidden;
+}
+
+@media (max-width: 824px) {
+  .hero {
+    flex-direction: column;
+  }
+}
