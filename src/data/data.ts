@@ -25,7 +25,7 @@ export const education = [
   {
     title: "Computer Engineering",
     college: "Tribhuvan University",
-    time: "Nov 2023 - April 2024",
+    time: "Nov 2018 - April 2023",
     detail: "I completed my bachelors degree.",
   },
   {
