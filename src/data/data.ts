@@ -1,13 +1,6 @@
 export const experience = [
   {
     title: "Junior Next.js Developer",
-    company: "MSP Solutions",
-    time: "July 2024",
-    detail:
-      "Focused on developing and maintaining frontend components for various projects, ensuring high performance and responsive design using Next.js.",
-  },
-  {
-    title: "Junior Next.js Developer",
     company: "EOS Web Solutions",
     time: "April 2024",
     detail:
